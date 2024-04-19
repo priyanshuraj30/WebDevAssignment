@@ -41,7 +41,7 @@
   - Running the react app
   ![App Screenshot](https://github.com/priyanshuraj30/WebDevAssignment/blob/main/screenshots/Screenshot%20(147).png)
   ![App Screenshot](https://github.com/priyanshuraj30/WebDevAssignment/blob/main/screenshots/Screenshot%20(148).png)
-  - Using the website
+  - Using the website (the already uploaded sound recordings are just for fun lol :D)
   ![App Screenshot](https://github.com/priyanshuraj30/WebDevAssignment/blob/main/screenshots/Screenshot%20(150).png)
   ![App Screenshot](https://github.com/priyanshuraj30/WebDevAssignment/blob/main/screenshots/Screenshot%20(151).png)
 
